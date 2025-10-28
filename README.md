@@ -1,5 +1,11 @@
 # Korea
 
+* data.csv<br />
+원본 데이터<br />
+
+* preprocessed_data.csv<br />
+전처리된 데이터<br />
+
 * 수행과제<br />
 국가통계 포탈 (https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1507&vw_cd=MT_ZTITLE&list_id=A11_2015_1_10_10&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)에 접속한다.<br />
 2015년 이후의 최대한의 데이터를 출력시키도록 시점을 조정한다.<br />
